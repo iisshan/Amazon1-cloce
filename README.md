@@ -1,2 +1,2 @@
 # Amazon1-cloce
-this project i amde using html and css
+this project i made using html and css
